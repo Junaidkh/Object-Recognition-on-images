@@ -1,5 +1,5 @@
 # Object-Recognition-on-images
-I have used ResNet model for detecting images
+I have used RetinaNet model for detecting images
 
 # Download the RetinaNet model file that will be used for object detection via this link. 
 Here to download: 
